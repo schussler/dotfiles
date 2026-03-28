@@ -13,6 +13,9 @@ This repository contains my personal development environment setup for Arch Linu
 * **ZSH (Powerlevel10k):** Optimized prompt for Git workflow, featuring `zoxide`, `eza`, and `fzf`.
 * **Full-Stack Ready:** Pre-configured aliases for `pnpm`, `npm`, and Docker.
 
+  <img width="2498" height="1065" alt="image" src="https://github.com/user-attachments/assets/42b55f6c-c2e2-4a2a-a8c7-3470ab8607c4" />
+
+
 ## 🛠️ Requirements
 
 Before installing, ensure you have the necessary base packages:
