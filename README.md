@@ -1,4 +1,4 @@
-# 🟣 Syntaxwave Dotfiles (Kodarya Edition)
+# 🟣 Syntaxwave Dotfiles
 
 This repository contains my personal development environment setup for Arch Linux, powered by **Hyprland** and themed with a vibrant **Deep Purple (Syntaxwave)** aesthetic.
 
